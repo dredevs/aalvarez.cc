@@ -14,8 +14,8 @@ const About = () => {
                 <span className={styles.highlight}>Sacramento State University</span>.
             </p>
             <p className={styles.text}>
-        I enjoy doing any sort of videography and photography. Check it out&nbsp;
-                <a href="/project" className={styles.link}>here</a>.
+    I enjoy doing any sort of videography and photography. Check it out&nbsp;
+            <a href="/project" className={styles.link}>here</a>.
             </p>
         </div>
     );
